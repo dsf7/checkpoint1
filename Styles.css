@@ -1,0 +1,93 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+header {
+
+    padding: 20px 10px;
+    font-family: 'Sofia', cursive;background-color: rgba(11, 11, 158, 0.411);
+    height: 150px;
+    color: gold;
+    block-size: auto;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+body {
+    background-image: url("./sp2005.jpg");
+    background-repeat: repeat-x;
+    background-size: 1600px;
+}
+
+.texto {
+    background-color: rgb(154, 237, 253);
+    font-family: 'Aldrich', sans-serif;
+    font-size: 18px;
+    block-size: auto;
+    margin: 20px 0px;
+    padding: 20px;
+    color: rgb(0, 0, 63);
+}
+
+.video {
+    background-color: rgba(0, 0, 0, 0.308);
+    padding: 20px;
+}
+
+.curiosidades {
+    background-color: rgb(37, 37, 37);
+    padding: 20px;
+    color: rgb(254, 255, 254);
+    font-family: 'Aldrich', sans-serif;
+}
+
+.redes {
+    background-color: whitesmoke;
+    padding-top: 20px;
+    padding: 20px;
+    height: 250px;
+}
+
+.foto {
+    background-color: rgb(37, 37, 37);
+    padding-top: 20px;
+}
+
+.legenda {
+    background-color: rgb(37, 37, 37);
+    padding: 20px;
+    color: rgb(254, 255, 254);
+    font-family: 'Aldrich', sans-serif;
+}
+
+.redes h2 {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-family: 'Aldrich', sans-serif;
+
+}
+
+p {
+    margin-top: 10px;
+}
+
+ol {
+    display: block;
+    list-style-type: none;
+    padding: 10px 50px;
+    margin: auto;
+  }
+
+  li {
+      padding: 5px;
+  }
+a { 
+    color: gold;
+}
